@@ -1,0 +1,9 @@
+title: Amber Palmer
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+# Optional but recommended
+markdown: kramdown
+

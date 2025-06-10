@@ -9,4 +9,6 @@ AI methods for infectious disease outbreaks and pandemics.
 
 My research interests include infectious disease epidemiology, systems biology and the application of mathematics to real-world problems. 
 
-![Amber](assets/images/Amber.jpeg){: style="float: left; margin-right: 20px; width: 150px;" }
+![Amber](assets/images/Amber.jpeg){: style="float: left; margin-right: -200px; margin-top: -300px; margin-left: -350px; width: 150px;" }
+
+
