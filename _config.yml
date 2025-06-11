@@ -7,3 +7,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # Optional but recommended
 markdown: kramdown
 
+# Add this if not already present
+header_pages:
+  - index.md
+  - cv.md
+
