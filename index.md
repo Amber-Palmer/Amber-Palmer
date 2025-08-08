@@ -20,15 +20,15 @@ title: About Me 🧪🧬🌱
 <!-- RIGHT COLUMN -->
 <div style="flex: 1;">
   
-## Hi, I’m Amber! 👋
+ Hi, I’m Amber! 👋
 
-I have just completed my Integrated Master's degree in **Biomedical Sciences** at Cardiff University.  
-I am soon to be a **PhD student** at the University of Bristol, joining the **AI for Collective Intelligence Hub**  
-within the *Pandemic Resilience* theme. My research will focus on developing AI methods for infectious  
+I have just completed my Integrated Master's degree in Biomedical Sciences at Cardiff University achieveing a first class and I  am soon to be a PhD student at the University of Bristol, joining the AI for Collective Intelligence Hub  
+within the Pandemic Resilience theme. My research will focus on developing AI methods for infectious  
 disease outbreaks and pandemics.
 
-My research interests include **infectious disease epidemiology**, **systems biology**, and the  
-application of **mathematics to real-world problems**.
+
+My research interests include infectious disease epidemiology, theoretical  biology, and the  
+application of mathematics to real-world problems.
 
 </div>
 </div>
